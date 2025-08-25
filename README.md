@@ -58,7 +58,7 @@
 ![Products Page](public/screenshots/product.png)
 
 ### 📰 Blogs/News Section  
-![Blogs Section](public/screenshots/blogs.png)
+![Blogs Section](public/screenshots/blog.png)
 
 ### 📝 Order Form Modal  
 ![Order Form](public/screenshots/orderform.png)
